@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/fanbyprinciple/luna-lung-cancer-dataset/data
+https://zenodo.org/records/3723295
+https://luna16.grand-challenge.org/Data/
+https://www.programmersought.com/article/319110247003/
+https://www.programmersought.com/article/795071672/
+https://www.programmersought.com/article/325410402145/
+https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254
+https://www.cancerimagingarchive.net/collection/lidc-idri/
