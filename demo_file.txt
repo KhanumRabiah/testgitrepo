@@ -1,0 +1,8 @@
+i want to add this text in demo file using mac cli
+
+hence, touch creates a file, echo modifies text in the file and cat opens the file in cli
+
+Touch file_name.extensiontype
+Echo "text u want to change" >> file_name.extension
+Cat file_name.extension
+
